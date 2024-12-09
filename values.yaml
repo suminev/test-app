@@ -1,7 +1,8 @@
-replicaCount: 2
+replicaCount: 4
 
 service:
   port: 8080
   image: suminev/test-app:v1
 
 nameOverride: ""
+
